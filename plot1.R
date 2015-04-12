@@ -1,0 +1,1 @@
+read.data("household_power_consumption.txt",)
